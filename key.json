@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brandix-417610",
+  "private_key_id": "e061a5fdea74ee63dd251fb0d645d18f6b13c5d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyGkltwRFCmVkB\n8phAz+nnJTXVFWTlRuXR4wligfP1PPe2q5RgL9lNXqbWY1n/CUZbqno2GPH1UyHH\nXGaDgT+a1BP2d/kaXqVC/oxnyIRDq8veuP6sv/dydWIg/xkUaA8qdwGPg58zlZCr\n85O1l4VNu3xJTFWZzl3riZV++SXi5KAbLTQ0/SRaKQoZPmPnQ6/DXcnL4gM2NrMx\nHZn37vFLKkuh2q+/c1LuvvPJi6Jbe9IpuK0km3P/IxOhqIXyhsgxT0MsZlNhxBtb\n86mRQUd5Qp48Td2D7pp/jtQqKBarS27k/CosYQ3vk2cmlTH88KybXOxc1BvG6jQd\nMIJWUNKVAgMBAAECggEAI+egvfuaGy8G/pmFkCtaIDskKxzxBjfQxQtcLPu9zsbH\nuY/Fjc6XpD1crQPCdOPNx1UK5jUJMkfcG3DJSeGYjQIMNDfjhClob6UZcSK/Z1UO\n+Iua7ACXRf/cFILY74A67ninW+NRCPkx/ThRot41BYKyf6Rf7W3pCT7nYH2h4aeX\nXnUmY2b+BcKoswNsJ99a+kgnBDHOF1g6O2rJG6GeaAylTPEBDaXSFKf4z508Ymya\ngLR94hXNnv/MAitVFM98QuE86mdf2CaRH8UhE9p4ylfaG/XIjdOk1XzoHHtoCU7+\nuKQgBmCDUTGgio6kyTR7FZQFTOb85UnhTPM8wLLfAQKBgQDf548YGpfpFr9m876i\nW9veAq4Ow1KsPOhBUULxy/JaCdAwUlBX5AJ/OGqjUnfiY2V7mafITP7FVZfQ0foi\nMEy0OYFbuwhhWr0yWvO6JZYQyHI1/f//A/GPm2mZP63lHVz39t9GTpkUHIi0huRg\nx6ssqhsnDuauTMclzjvAF52exQKBgQDLofmgjIiziXbX0VNwaQCunG5KfTCBqDDi\nfxuYn7oNQ3aGZGwT1WrJbvwVuWHMOLUg51s/tL2gsh6eJuMvcJpRncqnHtF2VpQF\nymRxdJc0bV89nn2GYkzSSldYV03ZuiDXqe44EOyaYd2iMGisKdqJb4fHnJb5ckFP\nb39103ChkQKBgGUr75eXpJ65HaF6b+BTG4U0tsuK7JdRKi0hd9tkKU0P9BdxikY8\ni/hKWL0VrYAJI7j21D6Is/Ic2+2Kg7jhFDe3aEE3wPCknKrdOBYbl7RbrmfBLuRf\nNs6KDewmPwAxBWoyDe9p4neY8RiJfzZP4oPbFUvPyuJlZPMrPgptYVZ1AoGAe8Eb\nqWPfLGWNkUnJENbvsC6npKOCmDm0Q+KFzfK8qpTmcnSTblZUiMjncPhyJCAOjEmu\nnf/lAsVdcDYn+cvQLWvdHkXPfMDPQtmmw4Dc5+LUb+ljVgllsKO3g5vDV2AT152R\nhgdbE9QIUypiYsco5j+e4EQdSMoUQQd9CgmPONECgYEAi4HhupvVgwKooVPEZnnu\n8Z13JVRdwfSlg0ZlXvkSvqJPAfjyToZTZHIGgj/aGlWJMavR4k/2MhfFCfZ2bDs8\n5lkmOaFsRp3bl47a/pmFKp1q6rdofrOrUdsNPgupclOy9e6Pffah0XStuNfjQkLx\n9h3wFnpiV+lCHgk8GHb+cZs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brandix-magicbit-power-bill@brandix-417610.iam.gserviceaccount.com",
+  "client_id": "115425606382182615736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brandix-magicbit-power-bill%40brandix-417610.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
