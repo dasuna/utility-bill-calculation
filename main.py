@@ -12,6 +12,9 @@ import datetime
 # called `app` in `main.py`.
 app = flask.Flask(__name__)
 
+# Set the timeout to  1200 seconds (20 minutes)
+app.config['TIMEOUT'] = 1200
+
 scope = ['https://www.googleapis.com/auth/drive']
 service_account_json_key = 'key.json'
 credentials = service_account.Credentials.from_service_account_file(
