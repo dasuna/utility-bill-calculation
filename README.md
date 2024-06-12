@@ -27,5 +27,35 @@ The spreadsheet contains columns for the Unix timestamp, daily energy usage, pea
 
 Another spreadsheet holds rate values used in the calculation of utility bills. The structure of this spreadsheet is as follows:
 
+| Year | Month | Day Rate | Peak Rate | Off Peak Rate | Max KVA Rate | Fixed Rate | Solar Bill Type | Solar to Grid Rate | Solar to Plant Rate | CO2 Reduction Rate |
+|------|-------|----------|-----------|---------------|--------------|------------|-----------------|--------------------|--------------------|--------------------|
+| 2022 | Jan   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 34.5               | 37                 | 1                  |
+| 2022 | Feb   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 32                 | 37                 | 1                  |
+| 2022 | Mar   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 34.5               | 30                 | 1                  |
+| 2022 | Apr   | 37       | 40        | 24            | 1600         | 5000       | Net Plus        | 34.5               | 0                  | 1                  |
+| 2022 | May   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 34.5               | 37                 | 1                  |
+| 2022 | Jun   | 37       | 40        | 24            | 1600         | 5000       | Net Plus        | 34.5               | 0                  | 1                  |
+| 2022 | Jul   | 37       | 40        | 24            | 1600         | 5000       | Net Plus        | 34.5               | 0                  | 1                  |
+| 2022 | Aug   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 34.5               | 37                 | 1                  |
+| 2022 | Sep   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 34.5               | 37                 | 1                  |
+| 2022 | Oct   | 37       | 40        | 24            | 1600         | 5000       | Net Accounting  | 37                 | 37                 | 1                  |
+
+
+
+The spreadsheet contains columns for the year, month, day rate, peak rate, off-peak rate, max kVA rate, fixed rate, solar bill type, solar to grid rate, solar to plant rate, and CO2 reduction rate.
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Ensure that the energy usage data is being written to the Google Spreadsheet in the specified format.
+2. Make sure the rate values spreadsheet is accessible and up to date.
+3. Run the software to process the input data and calculate the utility bills.
+
+## Contributing
+
+Contributions to this project are welcome. If you have suggestions for improvements or would like to report a bug, please open an issue or submit a pull request.
+
+
 
 
