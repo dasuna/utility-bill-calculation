@@ -71,6 +71,18 @@ python main.py
 
 4. Access the application at http://localhost:8080
 
+
+### Deploying to Google App Engine
+
+1. Ensure you have the Google Cloud SDK installed and configured.
+
+2. Deploy the application:
+
+gcloud app deploy app.yaml
+
+3. Access the deployed application at https://your-app.appspot.com
+
+
 ## Contributing
 
 Contributions to this project are welcome. If you have suggestions for improvements or would like to report a bug, please open an issue or submit a pull request.
