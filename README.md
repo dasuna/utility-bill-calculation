@@ -51,6 +51,25 @@ To use this project, follow these steps:
 1. Ensure that the energy usage data is being written to the Google Spreadsheet in the specified format.
 2. Make sure the rate values spreadsheet is accessible and up to date.
 3. Run the software to process the input data and calculate the utility bills.
+ 
+
+### Running Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Start the application:
+
+python main.py
+
+4. Access the application at http://localhost:8080
 
 ## Contributing
 
